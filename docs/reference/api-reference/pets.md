@@ -2,12 +2,12 @@
 
 ## Creating a new pet
 
-{% swagger src="../../my-yaml/pet-store-v1.yaml" path="/pet" method="post" %}
+{% swagger src="../../../my-yaml/pet-store-v1.yaml" path="/pet" method="post" %}
 {% endswagger %}
 
 ## Updating a pet
 
-{% swagger src="../../my-yaml/pet-store-v1.yaml" path="/pet" method="put" %}
+{% swagger src="../../../my-yaml/pet-store-v1.yaml" path="/pet" method="put" %}
 {% endswagger %}
 
 {% hint style="info" %}
