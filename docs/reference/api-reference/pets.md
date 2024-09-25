@@ -2,14 +2,12 @@
 
 ## Creating a new pet
 
-{% swagger src="https://petstore3.swagger.io/api/v3/openapi.json" path="/pet" method="post" %}
-[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
+{% swagger src="../../my-yaml/pet-store-v1.yaml" path="/pet" method="post" %}
 {% endswagger %}
 
 ## Updating a pet
 
-{% swagger src="https://petstore3.swagger.io/api/v3/openapi.json" path="/pet" method="put" %}
-[https://petstore3.swagger.io/api/v3/openapi.json](https://petstore3.swagger.io/api/v3/openapi.json)
+{% swagger src="../../my-yaml/pet-store-v1.yaml" path="/pet" method="put" %}
 {% endswagger %}
 
 {% hint style="info" %}
