@@ -1,4 +1,4 @@
-![Welcome to IDeaS API documentation page](../docs/assets/welcome-board.png)
+![Welcome to IDeaS API documentation page](assets/welcome-board.png)
 
 We invite developers to join our mission in making it easier for hotels to grow their business.
 
