@@ -1,4 +1,4 @@
-![Welcome to IDeaS API documentation page](assets/ideas-logo.png)
+![Welcome to IDeaS API documentation page](https://vectorlogoseek.com/wp-content/uploads/2019/03/ideas-a-sas-company-vector-logo.png)
 
 # Welcome!
 
