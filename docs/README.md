@@ -1,3 +1,5 @@
+![Welcome to IDeaS API documentation page](assets/ideas-logo.png)
+
 We invite developers to join our mission in making it easier for hotels to grow their business.
 
 ## Want to jump right in?
