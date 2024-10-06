@@ -1,21 +1,4 @@
----
-cover: .gitbook/assets/welcome-board.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+![Welcome to IDeaS API documentation page](assets/ideas-logo.png)
 
 # Welcome!
 
