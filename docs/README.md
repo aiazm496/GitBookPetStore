@@ -19,3 +19,10 @@ Dive a little deeper and start exploring our API reference to get an idea of eve
 {% content-ref url="reference/api-reference/" %}
 [api-reference](reference/api-reference/)
 {% endcontent-ref %}
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 250px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <h3><a href="https://example.com" target="_blank" style="text-decoration: none; color: #333;">Card Title</a></h3>
+  <p>This is a brief description of the card content.</p>
+  <a href="https://example.com" target="_blank" style="color: #0066cc; font-weight: bold;">Learn More</a>
+</div>
+
