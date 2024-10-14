@@ -3,13 +3,13 @@
 ## Creating a new pet
 
 {% swagger src="../../.gitbook/assets/pet-store-spec.json" path="/pet" method="post" %}
-[pet-store-v1.yaml](../../.gitbook/assets/pet-store-v1.yaml)
+[pet-store-spec.json](../../.gitbook/assets/pet-store-spec.json)
 {% endswagger %}
 
 ## Updating a pet
 
 {% swagger src="../../.gitbook/assets/pet-store-spec.json" path="/pet" method="put" %}
-[pet-store-v1.yaml](../../.gitbook/assets/pet-store-v1.yaml)
+[pet-store-spec.json](../../.gitbook/assets/pet-store-spec.json)
 {% endswagger %}
 
 {% hint style="info" %}
