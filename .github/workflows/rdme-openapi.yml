@@ -20,4 +20,4 @@ jobs:
       - name: Run `openapi` command 🚀
         uses: readmeio/rdme@v8
         with:
-          rdme: openapi ./my-yaml/pet-store-v1.yaml --key=${{ secrets.README_API_KEY }} --id=67120c9afdbaf3005c16c3ee
+          rdme: openapi ./my-yaml/pet-store-spec.json --key=${{ secrets.README_API_KEY }} --id=67120c9afdbaf3005c16c3ee
