@@ -1,10 +1,12 @@
+# Welcome!
+
 ![Welcome to IDeaS API documentation page](https://vectorlogoseek.com/wp-content/uploads/2019/03/ideas-a-sas-company-vector-logo.png)
 
-# Welcome!
+## Welcome!
 
 We invite developers to join our mission in making it easier for hotels to grow their business.
 
-### Want to jump right in?
+#### Want to jump right in?
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
@@ -12,7 +14,7 @@ Feeling like an eager beaver? Jump in to the quick start docs and get making you
 [quick-start.md](quick-start.md)
 {% endcontent-ref %}
 
-### Want to deep dive?
+#### Want to deep dive?
 
 Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
 
@@ -25,9 +27,8 @@ Dive a little deeper and start exploring our API reference to get an idea of eve
 | This is a brief description of the card. |
 | [Learn More](https://example.com)        |
 
-> ### [Card Title](https://example.com)
+> #### [Card Title](https://example.com)
 >
 > This is a brief description of the card content.
 >
 > [Learn More](https://example.com)
-
